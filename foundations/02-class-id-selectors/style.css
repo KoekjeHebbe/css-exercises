@@ -1,0 +1,19 @@
+p{
+    background-color: rgb(255, 156, 131);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id2{
+    color: blue;
+    font-size: 36px;
+}
+
+.class3{
+    font-size: 24px;
+}
+
+#id4{
+    background-color: rgb(96, 255, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
